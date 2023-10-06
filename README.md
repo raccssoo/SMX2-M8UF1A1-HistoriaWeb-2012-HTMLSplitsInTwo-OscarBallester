@@ -18,6 +18,20 @@ HTML se utiliza para estructurar el contenido de una página web y definir cómo
 ### 3. ¿HTML se dividió en dos?
 <p style="text-align: justify;"> HTML no se dividió en dos versiones separadas en el sentido tradicional de tener dos estándares independientes. Sin embargo, hubo un período en el que hubo dos grupos de trabajo diferentes que estaban involucrados en el desarrollo de HTML, lo que podría haber causado cierta confusión.
 
-##### 1. W3C y HTML4: El World Wide Web Consortium (W3C) fue el organismo de normalización encargado de desarrollar y mantener las especificaciones web, incluyendo HTML. HTML4 fue la última versión importante antes de HTML5. El W3C estaba trabajando en HTML5 como su próximo estándar web.
+##### a. W3C y HTML4: 
+El World Wide Web Consortium (W3C) fue el organismo de normalización encargado de desarrollar y mantener las especificaciones web, incluyendo HTML. HTML4 fue la última versión importante antes de HTML5. El W3C estaba trabajando en HTML5 como su próximo estándar web.
 
-##### 2. WHATWG y HTML Living Standard: El Web Hypertext Application Technology Working Group (WHATWG) fue otro grupo que trabajaba en tecnologías web, incluyendo HTML. En un momento dado, el WHATWG y el W3C estaban trabajando en paralelo en sus respectivas versiones de HTML5.
+##### b. WHATWG y HTML Living Standard
+ El Web Hypertext Application Technology Working Group (WHATWG) fue otro grupo que trabajaba en tecnologías web, incluyendo HTML. En un momento dado, el WHATWG y el W3C estaban trabajando en paralelo en sus respectivas versiones de HTML5.
+
+### 4. Conclusión 
+
+<p style="text-align: justify;"> En resumen, HTML es el lenguaje estándar para crear páginas web. Utiliza etiquetas para estructurar el contenido y evolucionó a través de dos grupos de trabajo: el W3C con HTML4 y el WHATWG con HTML Living Standard, resultando en HTML5, el estándar actual para contenido web dinámico.
+
+<div style="text-align:center;">
+    <img src="(https://github.com/raccssoo/SMX2-M8UF1A1-HistoriaWeb-2012-HTMLSplitsInTwo-OscarBallester/blob/main/Images/htmlfoto.jpeg)" alt="codigo" width="300px" />
+</div>
+
+
+
+
