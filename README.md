@@ -3,6 +3,8 @@ __________________
 ### 1. ¿Qué es HTML? 
 <p style="text-align: justify;color:black">HTML, o Hypertext Markup Language en español, es el lenguaje estándar 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p><img src=https://github.com/raccssoo/SMX2-M8UF1A1-HistoriaWeb-2012-HTMLSplitsInTwo-OscarBallester/blob/main/Images/tim.jpg?raw=true alt="tim" style="float: right;">
 utilizado para crear páginas web y documentos web.
 
